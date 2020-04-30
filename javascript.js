@@ -47,7 +47,7 @@ window.addEventListener('DOMContentLoaded', () => {
                     textoP.setAttribute('class', 'classeTextoP');
                     console.log('Clicado de novo')
                 }
-            })
+            })git 
 
             marcarTodos.addEventListener('click', () => {
 

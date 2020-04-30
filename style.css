@@ -93,3 +93,9 @@ body {
     text-transform: uppercase;
     font-weight: bold;
 } 
+
+ .classeTextoP {
+    text-decoration: line-through;
+    color: rgb(23, 158, 23);
+    opacity: .5;
+} 
